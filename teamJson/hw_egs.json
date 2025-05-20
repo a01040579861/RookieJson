@@ -90,38 +90,14 @@
     "link": "https://eaglesshop.co.kr/product/25-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%ED%83%80%EC%9B%94/399/category/72/display/1/",
     "detail": {
       "options": [
-        {
-          "category": "선수명",
-          "value": "문동주"
-        },
-        {
-          "category": "선수명",
-          "value": "안치홍"
-        },
-        {
-          "category": "선수명",
-          "value": "노시환"
-        },
-        {
-          "category": "선수명",
-          "value": "채은성"
-        },
-        {
-          "category": "선수명",
-          "value": "김서현"
-        },
-        {
-          "category": "선수명",
-          "value": "주현상"
-        },
-        {
-          "category": "선수명",
-          "value": "황영묵"
-        },
-        {
-          "category": "선수명",
-          "value": "류현진"
-        }
+        "문동주",
+        "안치홍",
+        "노시환",
+        "채은성",
+        "김서현",
+        "주현상",
+        "황영묵",
+        "류현진"
       ],
       "detail_images": [
         "https://ecimg.cafe24img.com/pg710b99500317054/eaglesshop/web/product/big/20250224/a3663f7256ff198f980d40c0a06c9200.jpg"

@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 짱구는 못말려 초코비 유니폼",
     "price": "105,000원",
@@ -8,13 +9,22 @@
     "category": "유니폼",
     "collaboration": "짱구",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://kream-phinf.pstatic.net/MjAyNTAzMjBfMTEw/MDAxNzQyNDYyNTQzMTU5.6jjjJuuNQ1qbfn9fgXRHApG_j_v40_-Jhj_mNoY3MZog.1AGD_oihtB8hh_ZYK53xbKQ7JvYEBJHCsRaZ3IBhDCIg.PNG/a_1478f095996b4a0f812c6792d892ea17.png?type=l_webp"
       ]
     }
   },
   {
+    "id": 1,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 캐릭터 유니폼",
     "price": "105,000원",
@@ -23,11 +33,20 @@
     "category": "유니폼",
     "collaboration": "에스더버니",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": []
     }
   },
   {
+    "id": 2,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 짱구는 못말려 크레용 유니폼",
     "price": "105,000원",
@@ -36,13 +55,22 @@
     "category": "유니폼",
     "collaboration": "짱구",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://kream-phinf.pstatic.net/MjAyNTAzMjBfODUg/MDAxNzQyNDYxODM0OTAy.gd_GdnM6VpXd39xofJyOqc0egwHySvC6S-vS75GghUcg.pOWsWB3GlwZRySZQKnhDK7aMpXURBDLbEapCNeQxqtYg.PNG/a_7837337b344846dab35fa66bb28301fc.png?type=l_webp"
       ]
     }
   },
   {
+    "id": 3,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 올드 스트라이프 프로페셔널 유니폼",
     "price": "99,000원",
@@ -51,7 +79,15 @@
     "category": "유니폼",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://contents.lotteon.com/itemimage/20250428160332/LO/24/75/78/33/68/_2/47/57/83/37/3/LO2475783368_2475783373_2.jpg/dims/resizef/554X554",
         "https://doc-pub.lotteon.com/ec/public/PB2E0D06697CE4C572EF45D8BA6B7C408C27BA4624AA2A23EF459B6C67BDF9DB8/file"
@@ -59,6 +95,7 @@
     }
   },
   {
+    "id": 4,
     "team": "lt_gnt",
     "name": "롯데자이언츠 올드 블랙 어센틱 유니폼",
     "price": "99,000원",
@@ -67,13 +104,22 @@
     "category": "",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://doc-pub.lotteon.com/ec/public/P5F3BE7FCABD12B9BA92995F946F5CC460153371DC22F9D798D752F3B5B337AFB/file"
       ]
     }
   },
   {
+    "id": 5,
     "team": "lt_gnt",
     "name": "롯데자이언츠 홈 어센틱 유니폼",
     "price": "99,000원",
@@ -82,7 +128,15 @@
     "category": "유니폼",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://contents.lotteon.com/itemimage/20250509191113/LO/24/66/86/23/14/_2/46/68/62/31/5/LO2466862314_2466862315_2.jpg/dims/resizef/554X554",
         "https://doc-pub.lotteon.com/ec/public/P87742E5C4359AF99D7AA87DDA19F249BE2830E42E9E80E9B88827AB4212D729B/file"
@@ -90,6 +144,7 @@
     }
   },
   {
+    "id": 6,
     "team": "lt_gnt",
     "name": "롯데자이언츠 어웨이 어센틱 유니폼",
     "price": "99,000원",
@@ -98,7 +153,15 @@
     "category": "",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://contents.lotteon.com/itemimage/20250509191026/LO/24/66/86/22/92/_2/46/68/62/29/3/LO2466862292_2466862293_2.jpg/dims/resizef/554X554",
         "https://doc-pub.lotteon.com/ec/public/PA5B3EE92164A3EFD0BC9F1D2A3DDEA38E3EE35C50EF370E7234790CC63DA8A4B/file"
@@ -106,6 +169,7 @@
     }
   },
   {
+    "id": 7,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 유니폼",
     "price": "105,000원",
@@ -114,13 +178,22 @@
     "category": "유니폼",
     "collaboration": "포켓몬",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://doc-pub.lotteon.com/ec/public/P304CC3B6EDD1028528150B27601AAD7B4C4AE287153475453FC13F2CECF67C94/file"
       ]
     }
   },
   {
+    "id": 8,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 홈 피카츄 인형 키링",
     "price": "19,000원",
@@ -136,6 +209,7 @@
     }
   },
   {
+    "id": 9,
     "team": "lt_gnt",
     "name": "롯데자이언츠 챔피언 홈 레플리카 유니폼",
     "price": "69,000원",
@@ -144,13 +218,22 @@
     "category": "유니폼",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://doc-pub.lotteon.com/ec/public/PBC60E7A5F69903509DA877958920076D0DC6F83CE310F09F515C5239D28535EB/file"
       ]
     }
   },
   {
+    "id": 10,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 어웨이 피카츄 인형 키링",
     "price": "19,000원",
@@ -166,6 +249,7 @@
     }
   },
   {
+    "id": 11,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 캐릭터 유니폼 스카이 블루",
     "price": "279,000원",
@@ -174,11 +258,20 @@
     "category": "유니폼",
     "collaboration": "에스더버니",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": []
     }
   },
   {
+    "id": 12,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 짝짝이",
     "price": "24,000원",
@@ -194,6 +287,7 @@
     }
   },
   {
+    "id": 13,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 모자",
     "price": "39,000원",
@@ -209,6 +303,7 @@
     }
   },
   {
+    "id": 14,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 인형",
     "price": "32,000원",
@@ -224,6 +319,7 @@
     }
   },
   {
+    "id": 15,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 전사 머플러",
     "price": "24,000원",
@@ -239,6 +335,7 @@
     }
   },
   {
+    "id": 16,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 유니폼 짐색",
     "price": "39,000원",
@@ -254,6 +351,7 @@
     }
   },
   {
+    "id": 17,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 몬스터볼 머리띠",
     "price": "20,000원",
@@ -269,6 +367,7 @@
     }
   },
   {
+    "id": 18,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 머리띠",
     "price": "22,000원",
@@ -284,6 +383,7 @@
     }
   },
   {
+    "id": 19,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 아크릴 키링",
     "price": "10,000원",
@@ -299,6 +399,7 @@
     }
   },
   {
+    "id": 20,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 포켓몬 아크릴 키링",
     "price": "10,000원",
@@ -314,6 +415,7 @@
     }
   },
   {
+    "id": 21,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 실리콘 더블 키링 윈지",
     "price": "12,000원",
@@ -327,6 +429,7 @@
     }
   },
   {
+    "id": 22,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 스마트톡 윈지",
     "price": "12,000원",
@@ -340,6 +443,7 @@
     }
   },
   {
+    "id": 23,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 체인 뱃지 하트",
     "price": "12,000원",
@@ -353,6 +457,7 @@
     }
   },
   {
+    "id": 24,
     "team": "lt_gnt",
     "name": "롯데자이언츠 챔피언 어웨이 어센틱 유니폼",
     "price": "99,000원",
@@ -361,7 +466,15 @@
     "category": "유니폼",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://contents.lotteon.com/itemimage/20250409084704/LO/24/66/86/22/58/_2/46/68/62/25/9/LO2466862258_2466862259_2.jpg/dims/resizef/554X554",
         "https://doc-pub.lotteon.com/ec/public/P64B50FDD9DDEC42E820471DF7DBCB20BA9DE740D4A2CD714D5D0DC9C6DFB52C8/file"
@@ -369,6 +482,7 @@
     }
   },
   {
+    "id": 25,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 캐릭터 인형 키링",
     "price": "17,000원",
@@ -382,6 +496,7 @@
     }
   },
   {
+    "id": 26,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 타포린백",
     "price": "6,000원",
@@ -397,6 +512,7 @@
     }
   },
   {
+    "id": 27,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 몬스터볼 그립톡",
     "price": "15,000원",
@@ -412,6 +528,7 @@
     }
   },
   {
+    "id": 28,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 그립톡",
     "price": "15,000원",
@@ -427,6 +544,7 @@
     }
   },
   {
+    "id": 29,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 스티커팩",
     "price": "5,000원",
@@ -442,6 +560,7 @@
     }
   },
   {
+    "id": 30,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 메탈 뱃지",
     "price": "12,000원",
@@ -457,6 +576,7 @@
     }
   },
   {
+    "id": 31,
     "team": "lt_gnt",
     "name": "롯데자이언츠 바다 프로페셔널 유니폼",
     "price": "143,000원",
@@ -465,13 +585,22 @@
     "category": "유니폼",
     "collaboration": "",
     "detail": {
-      "options": ["85", "90", "95", "100", "105", "110", "120"],
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100",
+        "105",
+        "110",
+        "120"
+      ],
       "detail_images": [
         "https://doc-pub.lotteon.com/ec/public/PBAE529E2CC954A028CD0711F809DB0F393E3387631983AB4CC1CC12CEFBC62D4/file"
       ]
     }
   },
   {
+    "id": 32,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 실리콘 더블 키링 짝짝이",
     "price": "12,000원",
@@ -485,6 +614,7 @@
     }
   },
   {
+    "id": 33,
     "team": "lt_gnt",
     "name": "롯데 자이언츠 x 에스더버니 실리콘 더블 키링 치얼업",
     "price": "12,000원",
