@@ -19,7 +19,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망곰 키링 인형",
     "price": "17,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://pimg.mk.co.kr/news/cms/202406/07/20240607_01110602000002_L01.jpg",
     "detail": {
@@ -45,7 +45,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 팔각 응원배트",
     "price": "12,000원",
-    "category": "",
+    "category": "응원용품",
     "collaboration": "",
     "thumbnail": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7586977605/B.jpg?851000000",
     "detail": {
@@ -84,7 +84,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 머리띠",
     "price": "15,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://img2.joongna.com/media/original/2024/09/10/1725964143089gep_D8Z2p.jpg",
     "detail": {
@@ -136,7 +136,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 아크릴 키링",
     "price": "8,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://ecimg.cafe24img.com/pg901b47144436040/ticketmdshop/web/product/big/20240617/ca9f4a60aa4076558c76f9d19f0333dd.jpg",
     "detail": {
@@ -149,7 +149,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 콜드컵 750ml",
     "price": "13,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://ecimg.cafe24img.com/pg901b47144436040/ticketmdshop/web/product/big/20240612/6bdff6d05cdd574194007c7a0cd4ad5c.jpg",
     "detail": {
@@ -175,7 +175,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 그립톡",
     "price": "14,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://web.joongna.com/cafe-article-data/live/2024/06/21/1062520072/1718971304641_000_a0lEI.jpg",
     "detail": {
@@ -214,7 +214,7 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 중형 스탠딩 인형",
     "price": "30,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://ecimg.cafe24img.com/pg901b47144436040/ticketmdshop/web/product/big/20240617/bd17b2b727a667265ab989f9765d0952.jpg",
     "detail": {
@@ -240,7 +240,7 @@
     "team": "ds_bas",
     "name": "두산베어스 아디다스 2025 어센틱 풀오버 화이트",
     "price": "250,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000057/image/detail/1000000057_detail_018.jpg",
     "detail": {
@@ -253,12 +253,14 @@
     "team": "ds_bas",
     "name": "두산베어스 망그러진곰 손수건",
     "price": "4,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMSAg/MDAxNzQxMzM3NjUyOTY2.IalG2QrODlwL_N74Zags-DE-9CE0YyBT0aVcDTHpxF8g._95EmZSQZf9rS-XFfviy9wp287AKNqlyiq3beY19F8Ig.PNG/a_52a17adb47404c2485056835446362f3.png?type=m",
+    "thumbnail": "https://img.soldout.co.kr/item_thumb/2024/06/05/8a7ce656-fc1d-4a25-b0bb-bd6ed36a70f0.png/soldout/resize/1000/optimize",
     "detail": {
       "options": [],
-      "detail_images": []
+      "detail_images": [
+        "https://img.soldout.co.kr/item_thumb/2024/06/05/8a7ce656-fc1d-4a25-b0bb-bd6ed36a70f0.png/soldout/resize/1000/optimize"
+      ]
     }
   },
   {
@@ -266,7 +268,7 @@
     "team": "ds_bas",
     "name": "두산베어스 브롤스타즈 머리띠",
     "price": "14,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "브롤스타즈",
     "thumbnail": "https://image.msscdn.net/images/goods_img/20250327/4953221/4953221_17443328508854_500.jpg",
     "detail": {
@@ -305,7 +307,7 @@
     "team": "ds_bas",
     "name": "두산베어스 브롤스타즈 머리띠",
     "price": "14,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "브롤스타즈",
     "thumbnail": "https://image.msscdn.net/images/goods_img/20250327/4953221/4953221_17443328508854_500.jpg",
     "detail": {
@@ -435,7 +437,7 @@
     "team": "ds_bas",
     "name": "브롤스타즈 자수 패치",
     "price": "10,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "브롤스타즈",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000145/image/main/1000000145_main_037.jpg",
     "detail": {
@@ -474,7 +476,7 @@
     "team": "ds_bas",
     "name": "두산베어스 판초우의 엠블럼 ver",
     "price": "19,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000141/image/main/1000000141_main_096.jpg",
     "detail": {
@@ -539,7 +541,7 @@
     "team": "ds_bas",
     "name": "브롤스타즈 자수 패치",
     "price": "10,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "브롤스타즈",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000145/image/main/1000000145_main_037.jpg",
     "detail": {
@@ -578,7 +580,7 @@
     "team": "ds_bas",
     "name": "두산베어스 판초우의 엠블럼 ver",
     "price": "19,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000141/image/main/1000000141_main_096.jpg",
     "detail": {
@@ -591,7 +593,7 @@
     "team": "ds_bas",
     "name": "두산베어스 D심볼 반사스티커 타입A",
     "price": "8,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000140/image/main/1000000140_main_065.jpg",
     "detail": {
@@ -604,7 +606,7 @@
     "team": "ds_bas",
     "name": "두산베어스 D심볼 반사스티커 타입B",
     "price": "8,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000139/image/main/1000000139_main_091.jpg",
     "detail": {
@@ -617,7 +619,7 @@
     "team": "ds_bas",
     "name": "두산베어스 Emblem 반사스티커 타입A",
     "price": "9,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000138/image/main/1000000138_main_071.jpg",
     "detail": {
@@ -630,7 +632,7 @@
     "team": "ds_bas",
     "name": "두산베어스 Emblem 반사스티커 타입B",
     "price": "9,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000137/image/main/1000000137_main_050.jpg",
     "detail": {
@@ -643,7 +645,7 @@
     "team": "ds_bas",
     "name": "베어스 1982 블록코어 긴팔 티셔츠 화이트 ver.2",
     "price": "70,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000136/image/main/1000000136_main_052.jpg",
     "detail": {
@@ -682,7 +684,7 @@
     "team": "ds_bas",
     "name": "두산베어스 서울 로고 펫 저지 티셔츠",
     "price": "33,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000125/image/main/1000000125_main_043.jpg",
     "detail": {
@@ -695,7 +697,7 @@
     "team": "ds_bas",
     "name": "두산베어스 블록코어룩 펫 티셔츠",
     "price": "42,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000124/image/main/1000000124_main_070.jpg",
     "detail": {
@@ -708,7 +710,7 @@
     "team": "ds_bas",
     "name": "두산베어스 베이스볼 펫 자켓",
     "price": "63,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000123/image/main/1000000123_main_026.jpg",
     "detail": {
@@ -721,7 +723,7 @@
     "team": "ds_bas",
     "name": "두산베어스 베어스 로고 펫 저지 티셔츠",
     "price": "33,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000122/image/main/1000000122_main_020.jpg",
     "detail": {
@@ -734,7 +736,7 @@
     "team": "ds_bas",
     "name": "두산베어스 펫 저지 올드 원정",
     "price": "30,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000121/image/main/1680485112462i0.jpg",
     "detail": {
@@ -747,7 +749,7 @@
     "team": "ds_bas",
     "name": "두산베어스 2025 팬북",
     "price": "18,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000119/image/main/1000000119_main_088.jpg",
     "detail": {
@@ -799,7 +801,7 @@
     "team": "ds_bas",
     "name": "두산베어스 철웅이 화이트보드 부채",
     "price": "7,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000111/image/main/1000000111_main_052.jpg",
     "detail": {
@@ -812,7 +814,7 @@
     "team": "ds_bas",
     "name": "두산베어스 엠블럼 화이트보드 부채",
     "price": "7,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000110/image/main/1000000110_main_069.jpg",
     "detail": {
@@ -825,7 +827,7 @@
     "team": "ds_bas",
     "name": "두산베어스 장우산 ver.2",
     "price": "30,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000109/image/main/1000000109_main_034.jpg",
     "detail": {
@@ -916,7 +918,7 @@
     "team": "ds_bas",
     "name": "베어스 자수로고 후드집업 화이트",
     "price": "99,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000098/image/main/1000000098_main_065.jpg",
     "detail": {
@@ -981,7 +983,7 @@
     "team": "ds_bas",
     "name": "두산베어스 BEARS 로고 메탈스티커",
     "price": "8,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000087/image/main/1000000087_main_079.jpg",
     "detail": {
@@ -994,7 +996,7 @@
     "team": "ds_bas",
     "name": "두산베어스 D심볼 메탈스티커",
     "price": "8,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000086/image/main/1000000086_main_073.jpg",
     "detail": {
@@ -1007,7 +1009,7 @@
     "team": "ds_bas",
     "name": "두산베어스 Emblem 메탈스티커",
     "price": "8,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000083/image/main/1000000083_main_066.jpg",
     "detail": {
@@ -1332,7 +1334,7 @@
     "team": "ds_bas",
     "name": "2025 DIY GAME CALENDAR",
     "price": "20,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000050/image/main/1000000050_main_080.jpg",
     "detail": {
@@ -1345,7 +1347,7 @@
     "team": "ds_bas",
     "name": "두산베어스 bears로고 버킷햇",
     "price": "39,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000032/image/main/1000000032_main_076.png",
     "detail": {
@@ -1358,7 +1360,7 @@
     "team": "ds_bas",
     "name": "두산베어스 한경기 최다득점 신기록 기념 엠블럼 패치",
     "price": "7,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://godomall-storage.cdn-nhncommerce.com/aee175be62cdbd8420a72c0186e673b8/goods/1000000031/image/main/1000000031_main_022.jpg",
     "detail": {
@@ -1384,7 +1386,7 @@
     "team": "ds_bas",
     "name": "두산베어스 2024 팬북",
     "price": "18,000원",
-    "category": "",
+    "category": "잡화",
     "collaboration": "",
     "thumbnail": "https://wefan20076.cdn-nhncommerce.com/data/goods/enamoo4/1711703901722i0.jpg",
     "detail": {
@@ -1423,7 +1425,7 @@
     "team": "ds_bas",
     "name": "두산베어스 펫 저지 올드 홈",
     "price": "30,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://wefan20076.cdn-nhncommerce.com/data/goods/enamoo4/1680484872350i0.jpg",
     "detail": {
@@ -1436,7 +1438,7 @@
     "team": "ds_bas",
     "name": "두산베어스 펫 저지 올드 원정",
     "price": "30,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://wefan20076.cdn-nhncommerce.com/data/goods/enamoo4/1680485112462i0.jpg",
     "detail": {
@@ -1449,7 +1451,7 @@
     "team": "ds_bas",
     "name": "두산베어스 펫 저지 홈",
     "price": "30,000원",
-    "category": "",
+    "category": "의류",
     "collaboration": "",
     "thumbnail": "https://wefan20076.cdn-nhncommerce.com/data/goods/enamoo4/1680485333135i0.jpg",
     "detail": {
