@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 벨크로 캡",
     "price": "32,000원",
     "category": "기타",
@@ -9,15 +9,7 @@
     "collaboration": "",
     "like": 3788,
     "detail": {
-      "options": [
-        "50",
-        "52",
-        "54",
-        "56",
-        "58",
-        "60",
-        "62"
-      ],
+      "options": ["50", "52", "54", "56", "58", "60", "62"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000001683/4.jpg"
       ]
@@ -25,7 +17,7 @@
   },
   {
     "id": 1,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 가먼트다잉 볼캡 58",
     "price": "35,000원",
     "category": "기타",
@@ -33,12 +25,7 @@
     "collaboration": "",
     "like": 5566,
     "detail": {
-      "options": [
-        "블랙",
-        "블루",
-        "그린",
-        "레드"
-      ],
+      "options": ["블랙", "블루", "그린", "레드"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008930/4.jpg"
       ]
@@ -46,7 +33,7 @@
   },
   {
     "id": 2,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 수원 볼캡 블랙 58",
     "price": "32,000원",
     "category": "기타",
@@ -62,7 +49,7 @@
   },
   {
     "id": 3,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 수원 볼캡 블랙/아이보리 58",
     "price": "32,000원",
     "category": "기타",
@@ -78,7 +65,7 @@
   },
   {
     "id": 4,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 수원 볼캡 네이비 58",
     "price": "32,000원",
     "category": "기타",
@@ -94,7 +81,7 @@
   },
   {
     "id": 5,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 엠블럼 반팔티 블랙",
     "price": "39,000원",
     "category": "의류",
@@ -102,13 +89,7 @@
     "collaboration": "",
     "like": 2374,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008859/4.jpg"
       ]
@@ -116,7 +97,7 @@
   },
   {
     "id": 6,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 엠블럼 반팔티 그레이",
     "price": "39,000원",
     "category": "의류",
@@ -124,12 +105,7 @@
     "collaboration": "",
     "like": 548,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008864/4.jpg"
       ]
@@ -137,7 +113,7 @@
   },
   {
     "id": 7,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 엠블럼 반팔티 오트밀",
     "price": "39,000원",
     "category": "의류",
@@ -145,12 +121,7 @@
     "collaboration": "",
     "like": 8774,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008868/4.jpg"
       ]
@@ -158,7 +129,7 @@
   },
   {
     "id": 8,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 모션 반팔티 오트밀",
     "price": "39,000원",
     "category": "의류",
@@ -166,12 +137,7 @@
     "collaboration": "",
     "like": 2078,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008872/4.jpg"
       ]
@@ -179,7 +145,7 @@
   },
   {
     "id": 9,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 모션 반팔티 네이비",
     "price": "39,000원",
     "category": "의류",
@@ -187,12 +153,7 @@
     "collaboration": "",
     "like": 68,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008876/4.jpg"
       ]
@@ -200,7 +161,7 @@
   },
   {
     "id": 10,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 스프링캠프 모자",
     "price": "35,000원",
     "category": "잡화",
@@ -216,7 +177,7 @@
   },
   {
     "id": 11,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 수원 후드 티셔츠",
     "price": "69,000원",
     "category": "의류",
@@ -224,12 +185,7 @@
     "collaboration": "",
     "like": 3016,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008920/4.jpg"
       ]
@@ -237,7 +193,7 @@
   },
   {
     "id": 12,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 메쉬밴드 캡",
     "price": "35,000원",
     "category": "기타",
@@ -245,11 +201,7 @@
     "collaboration": "",
     "like": 6079,
     "detail": {
-      "options": [
-        "56",
-        "58",
-        "60"
-      ],
+      "options": ["56", "58", "60"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000004294/4.jpg"
       ]
@@ -257,7 +209,7 @@
   },
   {
     "id": 13,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 모션 바시티 자켓",
     "price": "149,000원",
     "category": "기타",
@@ -265,13 +217,7 @@
     "collaboration": "",
     "like": 1271,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008908/4.jpg"
       ]
@@ -279,7 +225,7 @@
   },
   {
     "id": 14,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 슬리브 져지 화이트(마킹가능)",
     "price": "65,000원",
     "category": "기타",
@@ -287,10 +233,7 @@
     "collaboration": "",
     "like": 358,
     "detail": {
-      "options": [
-        "100",
-        "110"
-      ],
+      "options": ["100", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000013634/4.jpg"
       ]
@@ -298,7 +241,7 @@
   },
   {
     "id": 15,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 슬리브 져지 블랙(마킹가능)",
     "price": "65,000원",
     "category": "기타",
@@ -306,10 +249,7 @@
     "collaboration": "",
     "like": 5537,
     "detail": {
-      "options": [
-        "100",
-        "110"
-      ],
+      "options": ["100", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000004048/4.jpg"
       ]
@@ -317,7 +257,7 @@
   },
   {
     "id": 16,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 베이직로고 스냅백 캡",
     "price": "32,000원",
     "category": "기타",
@@ -325,10 +265,7 @@
     "collaboration": "",
     "like": 7960,
     "detail": {
-      "options": [
-        "58",
-        "60"
-      ],
+      "options": ["58", "60"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0310610062522/4.JPG"
       ]
@@ -336,7 +273,7 @@
   },
   {
     "id": 17,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 엠블럼 스냅백 캡 58",
     "price": "32,000원",
     "category": "기타",
@@ -352,7 +289,7 @@
   },
   {
     "id": 18,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 키즈 크로스백",
     "price": "45,000원",
     "category": "기타",
@@ -368,7 +305,7 @@
   },
   {
     "id": 19,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 유니폼 짐색(어웨이)",
     "price": "29,000원",
     "category": "유니폼",
@@ -384,7 +321,7 @@
   },
   {
     "id": 20,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 윈터 코듀로이 볼캡",
     "price": "35,000원",
     "category": "기타",
@@ -400,7 +337,7 @@
   },
   {
     "id": 21,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 윈터 파자마세트",
     "price": "45,000원",
     "category": "기타",
@@ -408,10 +345,7 @@
     "collaboration": "피너츠",
     "like": 4855,
     "detail": {
-      "options": [
-        "M",
-        "L"
-      ],
+      "options": ["M", "L"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0210510271271/4.jpg"
       ]
@@ -419,7 +353,7 @@
   },
   {
     "id": 22,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 윈터 패션 모자 네이비",
     "price": "35,000원",
     "category": "잡화",
@@ -435,7 +369,7 @@
   },
   {
     "id": 23,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 윈터 패션 모자 그레이",
     "price": "35,000원",
     "category": "잡화",
@@ -451,7 +385,7 @@
   },
   {
     "id": 24,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 피너츠 헤어밴드 스누피",
     "price": "15,000원",
     "category": "기타",
@@ -467,7 +401,7 @@
   },
   {
     "id": 25,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 피너츠 헤어밴드 찰리 브라운",
     "price": "15,000원",
     "category": "기타",
@@ -483,7 +417,7 @@
   },
   {
     "id": 26,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 피너츠 헤어밴드 우드스탁",
     "price": "15,000원",
     "category": "기타",
@@ -499,7 +433,7 @@
   },
   {
     "id": 27,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 피너츠 배트스틱",
     "price": "12,000원",
     "category": "기타",
@@ -515,7 +449,7 @@
   },
   {
     "id": 28,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 윈터 맨투맨 그레이",
     "price": "49,000원",
     "category": "의류",
@@ -523,12 +457,7 @@
     "collaboration": "피너츠",
     "like": 7784,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0211710052570/4.jpg"
       ]
@@ -536,7 +465,7 @@
   },
   {
     "id": 29,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 윈터 맨투맨 네이비",
     "price": "49,000원",
     "category": "의류",
@@ -544,12 +473,7 @@
     "collaboration": "피너츠",
     "like": 3743,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0211710052574/4.jpg"
       ]
@@ -557,7 +481,7 @@
   },
   {
     "id": 30,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 아크릴 스탠드 스누피",
     "price": "8,000원",
     "category": "기타",
@@ -573,7 +497,7 @@
   },
   {
     "id": 31,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 아크릴 스탠드 찰리 브라운",
     "price": "8,000원",
     "category": "기타",
@@ -589,7 +513,7 @@
   },
   {
     "id": 32,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 아크릴 스탠드 우드스탁",
     "price": "8,000원",
     "category": "기타",
@@ -605,7 +529,7 @@
   },
   {
     "id": 33,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 아크릴 스탠드 루시",
     "price": "8,000원",
     "category": "기타",
@@ -621,7 +545,7 @@
   },
   {
     "id": 34,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 아크릴 키링 스누피",
     "price": "7,500원",
     "category": "잡화",
@@ -637,7 +561,7 @@
   },
   {
     "id": 35,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 아크릴 키링 우드스탁",
     "price": "7,500원",
     "category": "잡화",
@@ -653,7 +577,7 @@
   },
   {
     "id": 36,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 스티커 팩(B)",
     "price": "4,000원",
     "category": "잡화",
@@ -669,7 +593,7 @@
   },
   {
     "id": 37,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 그립톡 우드스탁",
     "price": "11,900원",
     "category": "기타",
@@ -685,7 +609,7 @@
   },
   {
     "id": 38,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 마우스패드",
     "price": "5,000원",
     "category": "기타",
@@ -693,10 +617,7 @@
     "collaboration": "피너츠",
     "like": 1922,
     "detail": {
-      "options": [
-        "그룹",
-        "스누피"
-      ],
+      "options": ["그룹", "스누피"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0410810170482/4.jpg"
       ]
@@ -704,7 +625,7 @@
   },
   {
     "id": 39,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 마그넷",
     "price": "10,000원",
     "category": "기타",
@@ -712,11 +633,7 @@
     "collaboration": "피너츠",
     "like": 2202,
     "detail": {
-      "options": [
-        "그룹",
-        "스누피",
-        "우드스탁"
-      ],
+      "options": ["그룹", "스누피", "우드스탁"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0410810170485/4.jpg"
       ]
@@ -724,7 +641,7 @@
   },
   {
     "id": 40,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅또리 볼펜세트",
     "price": "5,900원",
     "category": "기타",
@@ -740,7 +657,7 @@
   },
   {
     "id": 41,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 인형 가방",
     "price": "39,000원",
     "category": "잡화",
@@ -756,7 +673,7 @@
   },
   {
     "id": 42,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 인형 가방",
     "price": "39,000원",
     "category": "잡화",
@@ -772,7 +689,7 @@
   },
   {
     "id": 43,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 홈런 인형",
     "price": "15,000원",
     "category": "기타",
@@ -788,7 +705,7 @@
   },
   {
     "id": 44,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 홈런 인형",
     "price": "15,000원",
     "category": "기타",
@@ -804,7 +721,7 @@
   },
   {
     "id": 45,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 파우치",
     "price": "15,000원",
     "category": "잡화",
@@ -820,7 +737,7 @@
   },
   {
     "id": 46,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 파우치",
     "price": "15,000원",
     "category": "잡화",
@@ -836,7 +753,7 @@
   },
   {
     "id": 47,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 피규어 키링",
     "price": "8,500원",
     "category": "잡화",
@@ -852,7 +769,7 @@
   },
   {
     "id": 48,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 피규어 키링",
     "price": "8,500원",
     "category": "잡화",
@@ -868,7 +785,7 @@
   },
   {
     "id": 49,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 원형 키체인 빅",
     "price": "8,000원",
     "category": "기타",
@@ -884,7 +801,7 @@
   },
   {
     "id": 50,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 아이스티 키체인 빅",
     "price": "9,000원",
     "category": "기타",
@@ -900,7 +817,7 @@
   },
   {
     "id": 51,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 보틀오프너 마그넷 빅",
     "price": "9,000원",
     "category": "기타",
@@ -916,7 +833,7 @@
   },
   {
     "id": 52,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 미니 바디필로우",
     "price": "22,000원",
     "category": "기타",
@@ -932,7 +849,7 @@
   },
   {
     "id": 53,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 미니 바디필로우",
     "price": "22,000원",
     "category": "기타",
@@ -948,7 +865,7 @@
   },
   {
     "id": 54,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 헬멧 우산",
     "price": "29,000원",
     "category": "기타",
@@ -964,7 +881,7 @@
   },
   {
     "id": 55,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 헬멧 우산",
     "price": "29,000원",
     "category": "기타",
@@ -980,7 +897,7 @@
   },
   {
     "id": 56,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 드라이버 커버",
     "price": "49,900원",
     "category": "기타",
@@ -996,7 +913,7 @@
   },
   {
     "id": 57,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 드라이버 커버",
     "price": "49,900원",
     "category": "기타",
@@ -1012,7 +929,7 @@
   },
   {
     "id": 58,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 담요",
     "price": "22,000원",
     "category": "기타",
@@ -1028,7 +945,7 @@
   },
   {
     "id": 59,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 담요",
     "price": "22,000원",
     "category": "기타",
@@ -1044,7 +961,7 @@
   },
   {
     "id": 60,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅또리 배트스틱",
     "price": "9,000원",
     "category": "기타",
@@ -1060,7 +977,7 @@
   },
   {
     "id": 61,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 비트배트",
     "price": "35,000원",
     "category": "기타",
@@ -1076,7 +993,7 @@
   },
   {
     "id": 62,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 뉴 배트스틱",
     "price": "12,000원",
     "category": "기타",
@@ -1092,7 +1009,7 @@
   },
   {
     "id": 63,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 플레이어 응원타월",
     "price": "14,900원",
     "category": "응원용품",
@@ -1119,7 +1036,7 @@
   },
   {
     "id": 64,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 유니폼로고 발염타월",
     "price": "12,000원",
     "category": "유니폼",
@@ -1135,7 +1052,7 @@
   },
   {
     "id": 65,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 LED 응원 팔찌 블랙",
     "price": "14,000원",
     "category": "응원용품",
@@ -1151,7 +1068,7 @@
   },
   {
     "id": 66,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 마법사 모자",
     "price": "29,000원",
     "category": "잡화",
@@ -1167,7 +1084,7 @@
   },
   {
     "id": 67,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅또리 헤어밴드",
     "price": "13,000원",
     "category": "기타",
@@ -1183,7 +1100,7 @@
   },
   {
     "id": 68,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 비트로 헤어밴드",
     "price": "19,900원",
     "category": "기타",
@@ -1199,7 +1116,7 @@
   },
   {
     "id": 69,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 수원 니트 머플러",
     "price": "28,000원",
     "category": "기타",
@@ -1215,7 +1132,7 @@
   },
   {
     "id": 70,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 버스트 오브 매직 니트 머플러",
     "price": "25,000원",
     "category": "기타",
@@ -1231,7 +1148,7 @@
   },
   {
     "id": 71,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 아이보리 왕 리본 머리띠",
     "price": "12,000원",
     "category": "기타",
@@ -1247,7 +1164,7 @@
   },
   {
     "id": 72,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 벨크로 인형머리띠",
     "price": "15,000원",
     "category": "기타",
@@ -1263,7 +1180,7 @@
   },
   {
     "id": 73,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 숫자인형",
     "price": "2,500원",
     "category": "기타",
@@ -1271,18 +1188,7 @@
     "collaboration": "",
     "like": 2668,
     "detail": {
-      "options": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
+      "options": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0410810170454/4.jpg"
       ]
@@ -1290,7 +1196,7 @@
   },
   {
     "id": 74,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 그리드 전사 머플러",
     "price": "18,000원",
     "category": "기타",
@@ -1306,7 +1212,7 @@
   },
   {
     "id": 75,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 소프트볼",
     "price": "7,000원",
     "category": "기타",
@@ -1322,7 +1228,7 @@
   },
   {
     "id": 76,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 대형로고볼",
     "price": "39,000원",
     "category": "기타",
@@ -1338,7 +1244,7 @@
   },
   {
     "id": 77,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅 소프트볼",
     "price": "8,900원",
     "category": "기타",
@@ -1354,7 +1260,7 @@
   },
   {
     "id": 78,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 또리 소프트볼",
     "price": "8,900원",
     "category": "기타",
@@ -1370,7 +1276,7 @@
   },
   {
     "id": 79,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 로고볼 케이스",
     "price": "7,000원",
     "category": "기타",
@@ -1386,7 +1292,7 @@
   },
   {
     "id": 80,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 위닝케이티 포토볼",
     "price": "7,000원",
     "category": "기타",
@@ -1402,7 +1308,7 @@
   },
   {
     "id": 81,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 로고볼",
     "price": "6,000원",
     "category": "기타",
@@ -1418,7 +1324,7 @@
   },
   {
     "id": 82,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 키즈 글러브",
     "price": "32,000원",
     "category": "기타",
@@ -1426,10 +1332,7 @@
     "collaboration": "",
     "like": 5030,
     "detail": {
-      "options": [
-        "우투",
-        "좌투"
-      ],
+      "options": ["우투", "좌투"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0611810260992/4.JPG"
       ]
@@ -1437,7 +1340,7 @@
   },
   {
     "id": 83,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 키즈 알루미늄 배트",
     "price": "32,000원",
     "category": "기타",
@@ -1453,7 +1356,7 @@
   },
   {
     "id": 84,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 어센틱 그레이 유니폼",
     "price": "139,000원",
     "category": "유니폼",
@@ -1461,15 +1364,7 @@
     "collaboration": "",
     "like": 7931,
     "detail": {
-      "options": [
-        "75",
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["75", "85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000015336/4.jpg"
       ]
@@ -1477,7 +1372,7 @@
   },
   {
     "id": 85,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 NB 어센틱 후드티",
     "price": "89,900원",
     "category": "의류",
@@ -1485,13 +1380,7 @@
     "collaboration": "",
     "like": 2657,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000011936/4.jpg"
       ]
@@ -1499,7 +1388,7 @@
   },
   {
     "id": 86,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 NB 어센틱 농구 저지",
     "price": "69,900원",
     "category": "의류",
@@ -1507,13 +1396,7 @@
     "collaboration": "",
     "like": 5197,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000011941/4.jpg"
       ]
@@ -1521,7 +1404,7 @@
   },
   {
     "id": 87,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 어센틱 홈 유니폼",
     "price": "139,000원",
     "category": "유니폼",
@@ -1549,7 +1432,7 @@
   },
   {
     "id": 88,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 어센틱 어웨이 유니폼",
     "price": "139,000원",
     "category": "유니폼",
@@ -1577,7 +1460,7 @@
   },
   {
     "id": 89,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 NB 어센틱 춘추자켓",
     "price": "159,000원",
     "category": "기타",
@@ -1585,14 +1468,7 @@
     "collaboration": "",
     "like": 4233,
     "detail": {
-      "options": [
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008816/4.jpg"
       ]
@@ -1600,7 +1476,7 @@
   },
   {
     "id": 90,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 NB 어센틱 동계자켓",
     "price": "209,000원",
     "category": "기타",
@@ -1608,13 +1484,7 @@
     "collaboration": "",
     "like": 7589,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008822/4.jpg"
       ]
@@ -1622,7 +1492,7 @@
   },
   {
     "id": 91,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 NB 어센틱 반팔 바람막이",
     "price": "99,900원",
     "category": "의류",
@@ -1630,14 +1500,7 @@
     "collaboration": "",
     "like": 485,
     "detail": {
-      "options": [
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008854/4.jpg"
       ]
@@ -1645,7 +1508,7 @@
   },
   {
     "id": 92,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 NB 어센틱 반팔 바람막이",
     "price": "99,900원",
     "category": "의류",
@@ -1653,13 +1516,7 @@
     "collaboration": "",
     "like": 4663,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0210110052264/4.JPG"
       ]
@@ -1667,7 +1524,7 @@
   },
   {
     "id": 93,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 NB 어센틱 춘추자켓",
     "price": "149,000원",
     "category": "기타",
@@ -1675,15 +1532,7 @@
     "collaboration": "",
     "like": 4483,
     "detail": {
-      "options": [
-        "85",
-        "90",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["85", "90", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0211710021407/4.JPG"
       ]
@@ -1691,7 +1540,7 @@
   },
   {
     "id": 94,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 NB 어센틱 동계자켓",
     "price": "209,000원",
     "category": "기타",
@@ -1699,13 +1548,7 @@
     "collaboration": "",
     "like": 6060,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0211710021413/4.JPG"
       ]
@@ -1713,7 +1556,7 @@
   },
   {
     "id": 95,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 NB 어센틱 아이싱 티셔츠",
     "price": "89,000원",
     "category": "기타",
@@ -1729,7 +1572,7 @@
   },
   {
     "id": 96,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 레플리카 홈 유니폼",
     "price": "69,000원",
     "category": "유니폼",
@@ -1737,15 +1580,7 @@
     "collaboration": "",
     "like": 5536,
     "detail": {
-      "options": [
-        "75",
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["75", "85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008780/4.jpg"
       ]
@@ -1753,7 +1588,7 @@
   },
   {
     "id": 97,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 레플리카 원정 유니폼",
     "price": "69,000원",
     "category": "유니폼",
@@ -1761,15 +1596,7 @@
     "collaboration": "",
     "like": 569,
     "detail": {
-      "options": [
-        "75",
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["75", "85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008786/4.jpg"
       ]
@@ -1777,7 +1604,7 @@
   },
   {
     "id": 98,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 어센틱 홈 유니폼",
     "price": "119,000원",
     "category": "유니폼",
@@ -1805,7 +1632,7 @@
   },
   {
     "id": 99,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2024 피너츠 옐로우 유니폼",
     "price": "89,000원",
     "category": "유니폼",
@@ -1813,12 +1640,7 @@
     "collaboration": "피너츠",
     "like": 8448,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110"
-      ],
+      "options": ["95", "100", "105", "110"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/KT0110510012088/4.jpg"
       ]
@@ -1826,7 +1648,7 @@
   },
   {
     "id": 100,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 어센틱 홈/어웨이 마킹키트",
     "price": "20,000원",
     "category": "기타",
@@ -1928,7 +1750,7 @@
   },
   {
     "id": 101,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 스프링캠프 반팔 티셔츠",
     "price": "59,000원",
     "category": "의류",
@@ -1936,13 +1758,7 @@
     "collaboration": "",
     "like": 1087,
     "detail": {
-      "options": [
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000005520/4.jpg"
       ]
@@ -1950,7 +1766,7 @@
   },
   {
     "id": 102,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 빅또리 벌룬 유니폼",
     "price": "94,000원",
     "category": "유니폼",
@@ -1958,15 +1774,7 @@
     "collaboration": "",
     "like": 9035,
     "detail": {
-      "options": [
-        "75",
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["75", "85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000010032/4.jpg"
       ]
@@ -1974,7 +1782,7 @@
   },
   {
     "id": 103,
-    "team": "kt wiz",
+    "team": "kt_wiz",
     "name": "케이티위즈 2025 빅 하늘 유니폼 ♥",
     "price": "94,000원",
     "category": "유니폼",
@@ -1982,15 +1790,7 @@
     "collaboration": "",
     "like": 3580,
     "detail": {
-      "options": [
-        "75",
-        "85",
-        "95",
-        "100",
-        "105",
-        "110",
-        "120"
-      ],
+      "options": ["75", "85", "95", "100", "105", "110", "120"],
       "detail-images": [
         "https://fs.arumnet.com/image/N3810KTSPO//item/38100000008954/4.jpg"
       ]
