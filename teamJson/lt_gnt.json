@@ -335,48 +335,6 @@
   {
     "id": 21,
     "team": "lt_gnt",
-    "name": "롯데 자이언츠 x 에스더버니 실리콘 더블 키링 윈지",
-    "price": "12,000원",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTU1/MDAxNzQxMDUxMzI2NTY0.VqhNoFzneGhcm8r95i05VSl-p6-SJbPMbrD2Pp3o8jsg.yrImiwwvXNlihahVqaiZV2F3qxdC_tjaIeRBgDSalIAg.PNG/a_7a8e38fa63384b50a012638abbfaa16b.png?type=l_webp",
-    "link": "",
-    "category": "잡화",
-    "collaboration": "에스더버니",
-    "detail": {
-      "options": [],
-      "detail_images": []
-    }
-  },
-  {
-    "id": 22,
-    "team": "lt_gnt",
-    "name": "롯데 자이언츠 x 에스더버니 스마트톡 윈지",
-    "price": "12,000원",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMjYg/MDAxNzQxMzM3Njg1OTA3.SxkxgsuVhGODJPh5s5YGwU7uotQr0FHO0isNpu6NbQgg.wXDOto8RYaKKJdsuwmWKWHEUOoc4Obnwj1ksGbsxK2wg.PNG/a_d898e0ea06854a399f92a276c66c3c2c.png?type=l",
-    "link": "",
-    "category": "잡화",
-    "collaboration": "에스더버니",
-    "detail": {
-      "options": [],
-      "detail_images": []
-    }
-  },
-  {
-    "id": 23,
-    "team": "lt_gnt",
-    "name": "롯데 자이언츠 x 에스더버니 체인 뱃지 하트",
-    "price": "12,000원",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfNzIg/MDAxNzQxMzM3Njg1NTMz.lGOVu-scxVPBliTMjobrSUCexuxkeymAtgqMdIqxYxwg.hsQ3bpUir2EvQve6hB1L2ex75vKiXQIdURBpcC28xXgg.PNG/a_c2e381744fcb4656b9400e3cd566f414.png?cors=productio",
-    "link": "",
-    "category": "잡화",
-    "collaboration": "에스더버니",
-    "detail": {
-      "options": [],
-      "detail_images": []
-    }
-  },
-  {
-    "id": 24,
-    "team": "lt_gnt",
     "name": "롯데자이언츠 챔피언 어웨이 어센틱 유니폼",
     "price": "99,000원",
     "thumbnail": "https://contents.lotteon.com/itemimage/20250409084704/LO/24/66/86/22/58/_2/46/68/62/25/9/LO2466862258_2466862259_1.jpg/dims/resizef/554X554",
@@ -392,21 +350,7 @@
     }
   },
   {
-    "id": 25,
-    "team": "lt_gnt",
-    "name": "롯데 자이언츠 x 에스더버니 캐릭터 인형 키링",
-    "price": "17,000원",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTk1/MDAxNzQxMDUxMzU4NTEy.hTtj9UERlRu8JrCgUSZSwumVEf7KEBud2I3vCe6Uaksg.kzWU261093CF8Wyj8BT_jJxMKdcTmlhqzEppcNN0-C8g.PNG/a_1f7a38d01c2a495695cb20795d591a1c.png?type=l",
-    "link": "",
-    "category": "잡화",
-    "collaboration": "에스더버니",
-    "detail": {
-      "options": [],
-      "detail_images": []
-    }
-  },
-  {
-    "id": 26,
+    "id": 22,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 타포린백",
     "price": "6,000원",
@@ -422,7 +366,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 23,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 몬스터볼 그립톡",
     "price": "15,000원",
@@ -438,7 +382,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 24,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 그립톡",
     "price": "15,000원",
@@ -454,7 +398,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 25,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 스티커팩",
     "price": "5,000원",
@@ -470,7 +414,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 26,
     "team": "lt_gnt",
     "name": "[자이언츠x포켓몬] 피카츄 메탈 뱃지",
     "price": "12,000원",
@@ -486,7 +430,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 27,
     "team": "lt_gnt",
     "name": "롯데자이언츠 바다 프로페셔널 유니폼",
     "price": "143,000원",
@@ -499,34 +443,6 @@
       "detail_images": [
         "https://doc-pub.lotteon.com/ec/public/PBAE529E2CC954A028CD0711F809DB0F393E3387631983AB4CC1CC12CEFBC62D4/file"
       ]
-    }
-  },
-  {
-    "id": 32,
-    "team": "lt_gnt",
-    "name": "롯데 자이언츠 x 에스더버니 실리콘 더블 키링 짝짝이",
-    "price": "12,000원",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjA0/MDAxNzQxMDUxMzI2NzM1.iGESpN_tnfKwl-o3cfGgLVoiSRfmg9PBBGiZn_5JDuUg.i_McIDyEIfVTPa0jglWhgkumHcpDzSewq9vO00HYIEog.PNG/a_e1e79b9db4e547e5bd95b10f8fe30987.png?type=l",
-    "link": "",
-    "category": "잡화",
-    "collaboration": "에스더버니",
-    "detail": {
-      "options": [],
-      "detail_images": []
-    }
-  },
-  {
-    "id": 33,
-    "team": "lt_gnt",
-    "name": "롯데 자이언츠 x 에스더버니 실리콘 더블 키링 치얼업",
-    "price": "12,000원",
-    "thumbnail": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMzIg/MDAxNzQxMDUxMzI2NjQ2.XrP2rwPuKLv07tMew2EVhsMye4K8DT4Qhj3P-Ghajvsg.UJo8Od6xL-s4Nya9ZLRaOutc0NDQ6B6O66Praxsf9m8g.PNG/a_fe9e855972b149cda9fdcee3d803834a.png?type=l",
-    "link": "",
-    "category": "잡화",
-    "collaboration": "에스더버니",
-    "detail": {
-      "options": [],
-      "detail_images": []
     }
   }
 ]
