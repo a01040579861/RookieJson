@@ -8,7 +8,7 @@
     "thumbnail": "https://tigers.cdn-nhncommerce.com/Mall-No-5WKb/PARTNER/20250514/PARTNER_94559/202505140925136fc53f5b3a40457d876be32eb52c7c09/be5d0467531b900f6d06.jpg",
     "collaboration": "티니핑",
     "detail": {
-      "options": [],
+      "options": ["85", "90", "95", "100", "105", "110", "115", "120"],
       "detail-images": []
     },
     "link": "https://teamstore.tigers.co.kr/category/detail/130252815"
@@ -22,7 +22,7 @@
     "thumbnail": "https://tigers.cdn-nhncommerce.com/Mall-No-5WKb/PARTNER/20250514/PARTNER_94559/20250514092059335bb644613746efbea95bb3bc7376c9/b90e9ec9f14786f098df.jpg",
     "collaboration": "티니핑",
     "detail": {
-      "options": [],
+      "options": ["85", "90", "95", "100", "105", "110", "115", "120"],
       "detail-images": [
         "https://image.ssgsellpick.com/image/prod/TIGERS/2505/LG20250514007666/8c3cc8c8f2bd887ca4c09c44659a007b.jpg"
       ]
@@ -68,7 +68,6 @@
     "detail": {
       "options": ["K3(3세)", "K5(5세)", "K7(7세)", "K9(9세)"],
       "detail-images": [
-        "https://tigers.cdn-nhncommerce.com/20250515/100336.301534834/%ED%8B%B0%EB%8B%88%ED%95%91-%EB%A0%88%ED%94%8C%EB%A6%AC%EC%B9%B4-%EC%97%B4%EB%A7%88%ED%82%B9.jpg",
         "https://tigers.cdn-nhncommerce.com/Mall-No-5WKb/20250502/120437.429858000/%EB%A0%88%ED%94%8C%EB%A6%AC%EC%B9%B4-%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC-%ED%82%A4%EC%A6%88-%EC%83%81%EC%84%B8.jpg"
       ]
     },
@@ -85,7 +84,6 @@
     "detail": {
       "options": ["K3(3세)", "K5(5세)", "K7(7세)", "K9(9세)"],
       "detail-images": [
-        "https://tigers.cdn-nhncommerce.com/Mall-No-5WKb/20250515/100005.608679020/%ED%8B%B0%EB%8B%88%ED%95%91-%EB%A0%88%ED%94%8C%EB%A6%AC%EC%B9%B4-%EC%97%B4%EB%A7%88%ED%82%B9.jpg",
         "https://tigers.cdn-nhncommerce.com/Mall-No-5WKb/20250502/120727.939241000/%EB%A0%88%ED%94%8C%EB%A6%AC%EC%B9%B4-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%B8%94%EB%A3%A8-%ED%82%A4%EC%A6%88-%EC%83%81%EC%84%B8.jpg"
       ]
     },
